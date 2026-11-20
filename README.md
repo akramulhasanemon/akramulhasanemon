@@ -2,7 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/akramulhasanemon/akramulhasanemon/main/assets/header.svg" width="100%" alt="Akramul Hasan Banner" />
 
-<br/>
+<br/><br/>
+
+<a href="https://github.com/akramulhasanemon">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=🎓+CSE+Undergraduate+%40+BUBT;⚡+Python+Desktop+%26+Full-Stack+Developer;🧠+Offline+AI+%26+Predictive+Modeling;🚀+Creator+of+EduTrack+Academic+Intelligence" alt="Typing SVG" />
+</a>
+
+<br/><br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/akramulhasanemon?style=for-the-badge&color=2563EB&logo=github&labelColor=060D1A)](https://github.com/akramulhasanemon?tab=followers)
 [![Email](https://img.shields.io/badge/Email-akramulhasan180@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060D1A)](mailto:akramulhasan180@gmail.com)
@@ -11,7 +17,7 @@
 
 ---
 
-### 💫 About Me
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" /> About Me
 
 ```yaml
 name: Akramul Hasan
@@ -51,7 +57,7 @@ motto: "Simplicity and precision build enduring software."
 
 ---
 
-### 📊 Dynamic Real-time Analytics
+### 📊 Dynamic Real-time Analytics & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akramulhasanemon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060D1A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" alt="GitHub Stats" height="175" />
@@ -64,10 +70,14 @@ motto: "Simplicity and precision build enduring software."
 
 ---
 
+### 📈 Activity Graph
+
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akramulhasanemon&theme=tokyo-night&bg_color=060D1A&color=38BDF8&line=2563EB&point=38BDF8&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
-<img src="https://raw.githubusercontent.com/akramulhasanemon/akramulhasanemon/main/assets/footer.svg" width="100%" alt="Footer Wave" />
+---
 
-<i>💡 "Simplicity is the soul of efficiency." — Let's connect and build something extraordinary!</i>
-
+<div align="center">
+  <i>💡 "Simplicity is the soul of efficiency." — Let's connect and build something extraordinary!</i>
 </div>
