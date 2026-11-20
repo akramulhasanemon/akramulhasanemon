@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/akramulhasanemon/akramulhasanemon/main/assets/header.svg" width="100%" alt="Akramul Hasan Banner" />
+<img src="https://raw.githubusercontent.com/akramulhasanemon/akramulhasanemon/main/assets/header.svg?v=2" width="100%" alt="Akramul Hasan Banner" />
 
 <br/><br/>
 
