@@ -1,6 +1,6 @@
 <div align="center">
 
-![Akramul Hasan Banner](assets/header.svg)
+![Akramul Hasan Banner](assets/header.gif)
 
 <br/>
 
