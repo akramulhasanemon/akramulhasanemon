@@ -1,0 +1,191 @@
+<svg fill="none" viewBox="0 0 850 260" width="100%" height="260" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          width: 850px;
+          height: 260px;
+          background: linear-gradient(135deg, #050A14 0%, #0A192F 50%, #0D2142 100%);
+          border-radius: 16px;
+          border: 1px solid rgba(56, 189, 248, 0.25);
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), inset 0 0 60px rgba(14, 165, 233, 0.08);
+          position: relative;
+          overflow: hidden;
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          box-sizing: border-box;
+        }
+
+        /* Ambient glowing background aura */
+        .aura {
+          position: absolute;
+          width: 320px;
+          height: 180px;
+          background: radial-gradient(circle, rgba(56, 189, 248, 0.18) 0%, rgba(37, 99, 235, 0.05) 60%, transparent 100%);
+          top: -20px;
+          left: 50%;
+          transform: translateX(-50%);
+          filter: blur(40px);
+          animation: pulseAura 4s ease-in-out infinite alternate;
+        }
+
+        @keyframes pulseAura {
+          0% { transform: translateX(-50%) scale(0.9); opacity: 0.6; }
+          100% { transform: translateX(-50%) scale(1.15); opacity: 1; }
+        }
+
+        /* Badges top */
+        .pill {
+          display: inline-flex;
+          align-items: center;
+          gap: 6px;
+          background: rgba(14, 165, 233, 0.1);
+          border: 1px solid rgba(56, 189, 248, 0.35);
+          padding: 4px 14px;
+          border-radius: 9999px;
+          color: #38BDF8;
+          font-size: 11px;
+          font-weight: 600;
+          letter-spacing: 1px;
+          text-transform: uppercase;
+          margin-bottom: 12px;
+          box-shadow: 0 0 12px rgba(56, 189, 248, 0.2);
+        }
+
+        .dot {
+          width: 6px;
+          height: 6px;
+          background: #38BDF8;
+          border-radius: 50%;
+          box-shadow: 0 0 8px #38BDF8;
+          animation: blink 1.5s ease-in-out infinite alternate;
+        }
+
+        @keyframes blink {
+          0% { opacity: 0.4; }
+          100% { opacity: 1; }
+        }
+
+        /* Main Heading */
+        .name {
+          font-size: 42px;
+          font-weight: 800;
+          letter-spacing: -0.5px;
+          margin: 0;
+          background: linear-gradient(90deg, #FFFFFF 0%, #BAE6FD 30%, #38BDF8 70%, #60A5FA 100%);
+          background-size: 200% auto;
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          animation: shine 5s linear infinite;
+        }
+
+        @keyframes shine {
+          0% { background-position: 0% center; }
+          100% { background-position: 200% center; }
+        }
+
+        /* Subtitle */
+        .sub {
+          font-size: 15px;
+          color: #94A3B8;
+          margin-top: 6px;
+          font-weight: 500;
+          letter-spacing: 0.2px;
+        }
+
+        .sub span {
+          color: #38BDF8;
+          font-weight: 600;
+        }
+
+        /* Animated Typing Role */
+        .role-wrapper {
+          margin-top: 14px;
+          height: 28px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          background: rgba(15, 23, 42, 0.6);
+          border: 1px solid rgba(255, 255, 255, 0.08);
+          border-radius: 8px;
+          padding: 0 18px;
+        }
+
+        .typing-text {
+          font-family: 'Courier New', Courier, monospace;
+          font-size: 14px;
+          color: #E2E8F0;
+          font-weight: 600;
+        }
+
+        .cursor {
+          display: inline-block;
+          width: 8px;
+          height: 15px;
+          background: #38BDF8;
+          margin-left: 6px;
+          animation: cursorBlink 0.8s infinite;
+          vertical-align: middle;
+        }
+
+        @keyframes cursorBlink {
+          0%, 100% { opacity: 0; }
+          50% { opacity: 1; }
+        }
+
+        /* Animated Waves at bottom */
+        .wave-box {
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          width: 100%;
+          height: 48px;
+          overflow: hidden;
+          opacity: 0.7;
+        }
+
+        .wave-svg {
+          position: absolute;
+          width: 200%;
+          height: 100%;
+          bottom: 0;
+          animation: waveMove 12s linear infinite;
+        }
+
+        @keyframes waveMove {
+          0% { transform: translateX(0); }
+          100% { transform: translateX(-50%); }
+        }
+      </style>
+
+      <div class="container">
+        <div class="aura"></div>
+
+        <div class="pill">
+          <span class="dot"></span> Software Engineer &amp; Student
+        </div>
+
+        <h1 class="name">Akramul Hasan</h1>
+
+        <div class="sub">
+          Computer Science &amp; Engineering &bull; <span>BUBT</span>
+        </div>
+
+        <div class="role-wrapper">
+          <span class="typing-text">Python Desktop &bull; Full-Stack &bull; Creator of EduTrack</span>
+          <span class="cursor"></span>
+        </div>
+
+        <div class="wave-box">
+          <svg class="wave-svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+            <path d="M0,0 C150,90 350,-40 500,50 C650,140 900,10 1200,40 L1200,120 L0,120 Z" fill="rgba(56, 189, 248, 0.12)"></path>
+            <path d="M0,20 C200,80 450,10 600,60 C750,110 1000,30 1200,50 L1200,120 L0,120 Z" fill="rgba(37, 99, 235, 0.18)"></path>
+          </svg>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:050D1A,25:0E294B,50:1E40AF,75:2563EB,100:38BDF8&height=230&section=header&text=Akramul%20Hasan&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=Computer%20Science%20%26%20Engineering%20%7C%20Software%20Developer&descAlignY=58&descSize=18&descAlign=50" width="100%" alt="Header Banner" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=🎓+CSE+Undergraduate+%40+BUBT;⚡+Python+Desktop+%26+Full-Stack+Developer;🧠+Offline+AI+%26+Predictive+Modeling+Enthusiast;🚀+Creator+of+EduTrack+Academic+Intelligence" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/akramulhasanemon/akramulhasanemon/main/assets/header.svg" width="100%" alt="Akramul Hasan Banner" />
 
 <br/>
 
@@ -21,7 +17,7 @@
 name: Akramul Hasan
 institution: Bangladesh University of Business and Technology (BUBT)
 major: Computer Science & Engineering (B.Sc. in CSE)
-passions: [Modern Desktop Systems, Machine Learning, Sleek UI/UX]
+passions: [Modern Desktop Systems, Machine Learning, Clean Architecture]
 current_focus: Building intelligent, offline-first student & academic tools
 motto: "Simplicity and precision build enduring software."
 ```
@@ -30,14 +26,6 @@ motto: "Simplicity and precision build enduring software."
 - 💻 Specialized in **Python (PyWebView, CustomTkinter, Desktop Architecture)** and modern web technologies.
 - 🛠️ Creator of **[EduTrack](https://github.com/akramulhasanemon/edutrack)** — an academic trajectory intelligence & CGPA forecasting engine.
 - 🎯 Always excited about high-DPI glassmorphism interfaces, local ML models, and clean architecture.
-
----
-
-### 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akramulhasanemon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -76,17 +64,9 @@ motto: "Simplicity and precision build enduring software."
 
 ---
 
-### 🐍 Contribution Activity Stream
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akramulhasanemon/akramulhasanemon/main/snake.svg" alt="Snake animation" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=akramulhasanemon&theme=tokyo-night&bg_color=060D1A&color=38BDF8&line=2563EB&point=38BDF8&area=true&hide_border=true'" />
-</div>
-
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:050D1A,25:0E294B,50:1E40AF,75:2563EB,100:38BDF8&height=120&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://raw.githubusercontent.com/akramulhasanemon/akramulhasanemon/main/assets/footer.svg" width="100%" alt="Footer Wave" />
 
 <i>💡 "Simplicity is the soul of efficiency." — Let's connect and build something extraordinary!</i>
 
